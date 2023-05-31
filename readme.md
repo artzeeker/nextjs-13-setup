@@ -42,7 +42,7 @@
 
 - Minimum width of html `body` tag should be 320 pixels. To do this just add TailwindCSS class `min-w-[320px]` to `body` tag in `/app/layout.tsx`
 
-- Maximum container should be 1,280 pixels. To do this just add TailwindCSS class `max-w-screen-lg mx-auto` to containers
+- Maximum container should be 1,280 pixels and centered. To do this just add TailwindCSS class `max-w-screen-lg` and `mx-auto` to containers
 
 - Desktop resolution considerate to be 1,024 pixels width or more
 
