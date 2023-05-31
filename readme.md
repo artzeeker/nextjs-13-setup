@@ -22,7 +22,7 @@
 
 ## Project configurations
 
-- Append this script to `package.json` file at `scripts` section
+- Append `clean` script to `package.json` file at `scripts` section
 
     ```json
     "scripts": {
@@ -30,6 +30,8 @@
         "build": "next build",
         "start": "next start",
         "lint": "next lint",
-        "clean": "npx rimraf .next node_modules" // Add this script to clean up your project for a clean install.
+
+        // Add this script to clean up your project for a clean install.
+        "clean": "npx rimraf .next node_modules"
     },
     ```
