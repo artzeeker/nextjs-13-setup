@@ -1,4 +1,4 @@
-# Next.js 13 Guides
+# Next.js 13 setup
 
 ## Create project
 
