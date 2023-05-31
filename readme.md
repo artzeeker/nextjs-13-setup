@@ -35,3 +35,11 @@
         "clean": "npx rimraf .next node_modules"
     },
     ```
+
+---
+
+TIPs:
+
+- min width of html `body` tag should be 320px
+
+- desktop size considerate to be 1024px or more
