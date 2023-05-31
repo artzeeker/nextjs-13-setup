@@ -30,6 +30,6 @@
         "build": "next build",
         "start": "next start",
         "lint": "next lint",
-        "clean": "npx rimraf .next node_modules" // add this script
+        "clean": "npx rimraf .next node_modules" // Add this script to clean up your project for a clean install.
     },
     ```
