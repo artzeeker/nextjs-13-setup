@@ -36,6 +36,10 @@
     },
     ```
 
+## Project convention
+
+soon
+
 ---
 
 TIPs:
